@@ -179,15 +179,15 @@ Screenshots demonstrating successful execution of the three Plays are included b
 
 ## Instruction Collision Map
 
-![Instruction Collision Map](screenshots/instruction-collision-map.png)
+![Instruction Collision Map](screenshots/play1.jpeg)
 
 ## Monorepo Test-Gap Cartography
 
-![Monorepo Test-Gap Cartography](screenshots/monorepo-test-gap-cartography.png)
+![Monorepo Test-Gap Cartography](screenshots/play2.jpeg)
 
 ## Package-Abandonment Early Signal
 
-![Package-Abandonment Early Signal](screenshots/package-abandonment-early-signal.png)
+![Package-Abandonment Early Signal](screenshots/play3.jpeg)
 
 ---
 
